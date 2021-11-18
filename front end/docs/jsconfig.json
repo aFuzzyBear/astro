@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": "../../front-end/docs",
+    "paths": {
+      "~/*": ["../../front-end/docs/src/*"]
+    }
+  }
+}
